@@ -207,7 +207,11 @@ PlayerSettings:
   iOSURLSchemes: []
   iOSBackgroundModes: 0
   iOSMetalForceHardShadows: 0
+<<<<<<< Updated upstream
   metalEditorSupport: 1
+=======
+  metalEditorSupport: 0
+>>>>>>> Stashed changes
   metalAPIValidation: 1
   appleDeveloperTeamID: 
   iOSManualSigningProvisioningProfileID: 
