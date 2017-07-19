@@ -516,7 +516,6 @@ PlayerSettings:
   scriptingBackend:
     Android: 0
     Standalone: 0
-    WebPlayer: 0
   incrementalIl2cppBuild: {}
   additionalIl2CppArgs: 
   apiCompatibilityLevelPerPlatform: {}

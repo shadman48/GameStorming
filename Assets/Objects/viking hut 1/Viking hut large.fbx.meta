@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 6c5c59b79eccd2541a066a4aafa978b2
+timeCreated: 1494813615
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: collum
+    100004: collum.001
+    100006: collum.002
+    100008: collum.003
+    100010: collum.004
+    100012: collum.005
+    100014: collum.006
+    100016: collum.007
+    100018: collum.008
+    100020: collum.009
+    100022: collum.010
+    100024: collum.011
+    100026: collum.012
+    100028: collum.013
+    100030: collum.014
+    100032: collum.015
+    100034: collum.016
+    100036: collum.017
+    100038: collum.018
+    100040: Cube.002
+    100042: Roof
+    100044: //RootNode
+    400000: Camera
+    400002: collum
+    400004: collum.001
+    400006: collum.002
+    400008: collum.003
+    400010: collum.004
+    400012: collum.005
+    400014: collum.006
+    400016: collum.007
+    400018: collum.008
+    400020: collum.009
+    400022: collum.010
+    400024: collum.011
+    400026: collum.012
+    400028: collum.013
+    400030: collum.014
+    400032: collum.015
+    400034: collum.016
+    400036: collum.017
+    400038: collum.018
+    400040: Cube.002
+    400042: Roof
+    400044: //RootNode
+    2300000: collum
+    2300002: collum.001
+    2300004: collum.002
+    2300006: collum.003
+    2300008: collum.004
+    2300010: collum.005
+    2300012: collum.006
+    2300014: collum.007
+    2300016: collum.008
+    2300018: collum.009
+    2300020: collum.010
+    2300022: collum.011
+    2300024: collum.012
+    2300026: collum.013
+    2300028: collum.014
+    2300030: collum.015
+    2300032: collum.016
+    2300034: collum.017
+    2300036: collum.018
+    2300038: Cube.002
+    2300040: Roof
+    3300000: collum
+    3300002: collum.001
+    3300004: collum.002
+    3300006: collum.003
+    3300008: collum.004
+    3300010: collum.005
+    3300012: collum.006
+    3300014: collum.007
+    3300016: collum.008
+    3300018: collum.009
+    3300020: collum.010
+    3300022: collum.011
+    3300024: collum.012
+    3300026: collum.013
+    3300028: collum.014
+    3300030: collum.015
+    3300032: collum.016
+    3300034: collum.017
+    3300036: collum.018
+    3300038: Cube.002
+    3300040: Roof
+    4300000: Roof
+    4300002: Cube.002
+    4300004: collum.002
+    4300006: collum.003
+    4300008: collum
+    4300010: collum.004
+    4300012: collum.001
+    4300014: collum.005
+    4300016: collum.006
+    4300018: collum.007
+    4300020: collum.008
+    4300022: collum.009
+    4300024: collum.010
+    4300026: collum.011
+    4300028: collum.012
+    4300030: collum.013
+    4300032: collum.014
+    4300034: collum.015
+    4300036: collum.016
+    4300038: collum.017
+    4300040: collum.018
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
